@@ -1,0 +1,4 @@
+name: Sravya
+Course: BSC
+suc code:2367250319
+college: aditya degree college
