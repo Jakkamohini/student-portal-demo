@@ -1,7 +1,7 @@
 /* Reset default styles */
 * {
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 2;
   box-sizing: border-box;
 }
 
@@ -67,3 +67,4 @@ ul#task-list li {
   margin-bottom: 10px;
   border-radius: 5px;
 }
+
